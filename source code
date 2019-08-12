@@ -41,7 +41,7 @@ void main()
     cprintf(" ______________________________________________________________________________  ");
     cprintf(" ______________________________________________________________________________ ");
     cprintf(" _________________________   Press 'x' to Exit      __________________________  ");
-    cprintf("       S N A K E  G A M E     Press 'p' to Pause and Play ||   SCORE : 0         ");
+    cprintf(" S N A K E  G A M E  BY MANKU    Press 'p' to Pause and Play ||   SCORE : 0         ");
     cprintf(" ___________________________                                  STATUS: Playing   ");
     cprintf("_____________________________________________________________________________  ");
     int snkx[20],snky[20],d=LEFT,p=0,sz=6,restart=1;
